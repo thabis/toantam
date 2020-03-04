@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>658062263751-62go0cdn4fscttqo7bc7f2seautrk3vq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.658062263751-62go0cdn4fscttqo7bc7f2seautrk3vq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDAX80zMYv3-LSWpUUxFQsS8vpIFeutCNw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>658062263751</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.toantam.ltd</string>
+	<key>PROJECT_ID</key>
+	<string>toan-tam</string>
+	<key>STORAGE_BUCKET</key>
+	<string>toan-tam.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:658062263751:ios:6c0da668521e721c</string>
+	<key>DATABASE_URL</key>
+	<string>https://toan-tam.firebaseio.com</string>
+</dict>
+</plist>
