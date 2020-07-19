@@ -16,7 +16,7 @@
     "axios": "0.19.2",
     "babel-plugin-module-resolver": "4.0.0",
     "formik": "2.1.4",
-    "lodash": "4.17.15",
+    "lodash": "4.17.19",
     "lottie-react-native": "3.3.2",
     "moment": "2.24.0",
     "prop-types": "15.7.2",
